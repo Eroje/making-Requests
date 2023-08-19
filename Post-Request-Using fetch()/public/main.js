@@ -1,4 +1,5 @@
 // Information to reach API
+// Copy API keys from .env file
 
 const apiKey = '';
 const url = 'https://api.rebrandly.com/v1/links';
